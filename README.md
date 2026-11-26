@@ -20,8 +20,6 @@ Lograremos montar 2 maquinas virtual de Linux Manjaro en el apartado grafico, Li
 La versión elegida y su verificación están en la [ficha de versión](plan/ficha-version.md). El reparto del trabajo está en el [plan de trabajo](plan/plan-de-trabajo.md).
 
 ## Páginas del proyecto
-
-- [Sprint 0 · Arranque](sprint-0.md)
 - [Sprint 1 · Montaje](sprint-1.md)
 - [Sprint 2 · Servicios](sprint-2/README.md)
 - [Sprint 3 · Cierre](sprint-3.md)
